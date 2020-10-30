@@ -2,5 +2,6 @@
 
 Please have a look at
 Introduction, Business Model and Strategy \
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aw0q_MiwXu4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aw0q_MiwXu4/0.jpg)](https://www.youtube.com/watch?v=aw0q_MiwXu4)
+
 Product description and functioning with demo https://youtu.be/0IUefaDeA8o
