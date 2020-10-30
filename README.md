@@ -1,4 +1,4 @@
-# the-Neuro-Pulse-Transmitter
+# The-Neuro-Pulse-Transmitter
 
 Please have a look at
 Introduction, Business Model and Strategy https://youtu.be/aw0q_MiwXu4 \
