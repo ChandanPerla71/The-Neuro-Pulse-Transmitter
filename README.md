@@ -6,3 +6,5 @@ Introduction, Business Model and Strategy:</strong> \
 
 <strong>Product description and functioning with demo:</strong> \
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0IUefaDeA8o/0.jpg)](https://www.youtube.com/watch?v=0IUefaDeA8o)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/shNWWbi_Phg/0.jpg)](https://www.youtube.com/watch?v=shNWWbi_Phg)
